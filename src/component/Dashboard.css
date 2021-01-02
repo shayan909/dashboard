@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@200&display=swap");
+body {
+  background: black;
+  color: turquoise;
+  font-family: "Courier New", Courier, monospace;
+ 
+}
+.TopHeader{
+  margin-left: 40%;
+  font-size: 30px;
+  font-weight: bold;
+
+}
+
+.widgetWrap {
+  background: rgb(20, 15, 15);
+}
+
+.widgetTitle {
+  border-bottom: 1px solid rgb(128, 114, 114);
+  text-align: left;
+  text-transform: uppercase;
+  font-size: 13px;
+  font-weight: 600;
+  padding: 10px 10px;
+}
+
+.widgetValue .value {
+  font-size: 57px;
+  font-weight: 700;
+  text-align: left;
+  padding: 0px 7px;
+  line-height: 100%;
+}
+
+.description {
+  text-align: left;
+  font-size: 12px;
+  padding-left: 13px;
+}
+
+.widgetValue {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+text {
+  fill: white;
+}
+
+/*.Dropdown {
+  margin-left: 85%;
+  width: 15%;
+}
+*/
